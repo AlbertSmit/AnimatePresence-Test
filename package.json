@@ -1,0 +1,34 @@
+{
+  "name": "react-spring-animatepresence",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@floating-ui/core": "1.0.5",
+    "@floating-ui/react": "0.15.0",
+    "@floating-ui/react-dom": "1.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "4.0.0",
+    "react-spring": "9.6.1",
+    "react-use-measure": "2.1.1",
+    "the-new-css-reset": "1.8.2"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
